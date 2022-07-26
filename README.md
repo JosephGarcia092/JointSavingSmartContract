@@ -31,5 +31,10 @@ Fincally the last function to take in any ether that is sent outside the deposit
 
 # Step 2 Compile, Launch, Interact
 
-Using the [Remix Ethereum IDE](https://remix-project.org/) we are able to compile our code to check for syntax errors. This is a _Good Practice_ for cleaner code to make sure all isssues are solved before the next step of launching the smart contract. After making sure that you have set the compiler to the right **pragma**, compiled the code to take care of any syntax errors or any errors that might have been there its time to _Deploy_.
+Using the [Remix Ethereum IDE](https://remix-project.org/) we are able to compile our code to check for syntax errors. This is a _Good Practice_ for cleaner code to make sure all isssues are solved before the next step of launching the smart contract. After making sure that you have set the compiler to the right **pragma**, compiled the code to take care of any syntax errors or any errors that might have been there now...its time to _Deploy_.
 
+# Step 3 Interact
+
+Now that the contract is deployed, it’s time to test its functionality! After each step, I have captured a screenshot of the execution, and then saved it in a folder named Execution.
+
+I first set up both _account1_ and _account2_ using the correct **Java Script Vitrtual Machine** which I have used Berlin for this Assignment. With the accounts that are already given I set the accounts accordingly.
